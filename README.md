@@ -2,7 +2,7 @@
 
 Chapter 15: Building an Awesome Todo List App in React
 
-In this chapter, I learned how to get data from external sources using XMLHTTPRequest and Ajax. I also learned the difference between presentatinal and Container components in React
+In this chapter, I went over the core concepts of React and how components can interact with each other and learned a little bit about animation with React.
 
 <h3>Links to Other Chapters</h3>
 <ul>
