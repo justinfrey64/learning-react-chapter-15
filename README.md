@@ -13,4 +13,5 @@ In this chapter, I went over the core concepts of React and how components can i
   <li><a href="https://github.com/justinfrey64/learning-react-chapter-17">Chapter 17</a></li>
   <li><a href="https://github.com/justinfrey64/learning-react-chapter-18">Chapter 18</a></li>
   <li><a href="https://github.com/justinfrey64/learning-react-chapter-19">Chapter 19</a></li>
+  <li><a href="https://github.com/justinfrey64/learning-react-chapter-19">Chapter 20</a></li>
 </ul>
